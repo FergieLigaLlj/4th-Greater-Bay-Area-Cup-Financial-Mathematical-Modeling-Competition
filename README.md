@@ -10,7 +10,7 @@
 
 ### Abstract:
 
-1. Feature Indicators and Stock Profiles
-2. K-Means Clustering Technique
-3. Multivariate Linear Regression Model
-4. Parametric Statistics of China's Unique Valuation System
+1. Feature Indicators and Stock Profiles: Sub-Branch: master5
+2. K-Means Clustering Technique: Sub-Branch: master6
+3. Multivariate Linear Regression Model: Sub-Branch: master7
+4. Parametric Statistics of China's Unique Valuation System: Sub-Branch: master8
